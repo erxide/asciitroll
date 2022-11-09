@@ -8,3 +8,4 @@ Voici la liste des ascii art posible : -pika
                                        -roblox
                                        -sus
                                        -amongE
+                                       -crewmate_ghost
