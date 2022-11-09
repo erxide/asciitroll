@@ -9,3 +9,4 @@ Voici la liste des ascii art posible : -pika
                                        -sus
                                        -amongE
                                        -crewmate_ghost
+                                       -one_piece
