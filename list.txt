@@ -13,3 +13,4 @@ Voici la liste des ascii art posible : -pika
                                        -leona
                                        -deusvult
                                        -poutine
+                                       -pipi
