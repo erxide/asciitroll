@@ -12,3 +12,4 @@ Voici la liste des ascii art posible : -pika
                                        -one_piece
                                        -leona
                                        -deusvult
+                                       -poutine
