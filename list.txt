@@ -10,3 +10,4 @@ Voici la liste des ascii art posible : -pika
                                        -amongE
                                        -crewmate_ghost
                                        -one_piece
+                                       -leona
