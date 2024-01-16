@@ -4,6 +4,8 @@
 
 - $ git pull https://github.com/erxide/asciitroll.git
 
+- $ cd asciitroll/code/
+
 - $ go run print.go list pour avoir la liste de tout les ascii
 
 - $ go run print.go <nom de l'ascii>
